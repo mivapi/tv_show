@@ -1,3 +1,23 @@
+# Main architecture decisions you've made and a quick explanation of why.
+Component-based architecture because we have folders / files, components and how they are related.
+
+# List of third party libraries and why you chose each one
+FontAwesome: Icons in spite of svg extensions, I like using to make easier challenge.
+
+# What in your code could be improved if you had more time.
+I would had liked having more control with a database to save favorites and customizing suggestions as a filter (as genre, language, etc.).
+Add libraries styling like bootstrap or material-UI.
+Autocomplete input to display the match search list (material-UI handles lab content to help us improving without spendig time making components) .
+
+# Mention anything that was asked but not delivered and why, and any additional comments.
+If I can use frameworks to complement design, would be better.
+Is this a minimal version of imdb, I did not ask for it because I though was a part of the challenge.
+localstorage was a good challenge, unexpected but so great, I learn a lot.
+In addition, I made css in responsive mode without frameworks.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
